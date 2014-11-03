@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Om Brf Kurland 5
+permalink: /om-oss/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Brf Kurland 5 är en Bostadsrättsförening som ligger i korsningen mellan Drottninggatan och Kammakargatan, formellt på Kammakargatan 40.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Det är en liten förening med 11 bostadsrättslägenheter, några bostadsrättslokaler och några hyreslokaler.
